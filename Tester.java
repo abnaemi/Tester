@@ -1,11 +1,13 @@
 public class Tester {
     public static void main(String[] args) {
 
-       boolean testword = wordchecker("HallWelt");
-        System.out.println(testword);
+       int summe = calculator(23,12);
+        System.out.println(summe);
+
+
     }
-    public static boolean wordchecker(String word){
-        return word.contains("Hallo");
+    public static int calculator(int numberone, int numbertwo){
+        return numberone + numbertwo;
 
     }
 
