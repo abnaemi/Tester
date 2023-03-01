@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d87c42db-ec64-4707-bba7-cc43dd2b37ea" name="Changes" comment="Code Example to use JUNIT&#10;Changed to fit the task">
-      <change afterPath="$PROJECT_DIR$/TesterTest.java" afterDir="false" />
+    <list default="true" id="d87c42db-ec64-4707-bba7-cc43dd2b37ea" name="Changes" comment="Final Version">
+      <change afterPath="$PROJECT_DIR$/TesterTestC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tester.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tester.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tester/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tester/Tester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TesterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tester/TesterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tester/TesterTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677664940175</updated>
-      <workItem from="1677664941795" duration="3767000" />
+      <workItem from="1677664941795" duration="4677000" />
     </task>
     <task id="LOCAL-00001" summary="Code Example to use JUNIT">
       <created>1677665172198</created>
@@ -97,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677665973559</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Final Version">
+      <created>1677668892602</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677668892602</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Code Example to use JUNIT" />
     <MESSAGE value="Code Example to use JUNIT&#10;Changed to fit the task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code Example to use JUNIT&#10;Changed to fit the task" />
+    <MESSAGE value="Final Version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Version" />
   </component>
 </project>

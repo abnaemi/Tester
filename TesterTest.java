@@ -8,7 +8,7 @@ class TesterTest {
     void ShouldReturnTrueIfHigherThan100() {
 
         // GIVEN
-       int highNumber = 101;
+       int highNumber = 100;
 
         //WHEN
       boolean actual = Tester.HigherThan100(highNumber);
